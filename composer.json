@@ -3,6 +3,7 @@
   "description": "Shim repository for PivotTable.js",
   "homepage": "http://nicolas.kruchten.com/pivottable",
   "license": "MIT",
+  "abandoned": true,
   "require": {
     "etdsolutions/jquery": ">=1.8.3",
     "etdsolutions/jquery-ui": ">=1.9.2"
